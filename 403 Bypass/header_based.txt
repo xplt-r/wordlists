@@ -1,0 +1,321 @@
+Accept-Application:
+Accept-Patch:
+Accept-Ranges:
+Access-Control-Allow-Origin:
+Authorization: Basic A
+Authorization: Bearer
+Authorization: Bearer A
+Authorization: Bearer a a
+Authorization: Bearer
+Authorization: Token A
+Authorization:
+Authorization:
+Authorization:
+Base-Url:
+Base-Url:
+Base-Url:
+CF-Connecting-IP:
+CF-Connecting-IP:
+CF-Connecting_IP:
+CF-Connecting_IP:
+Cf-Connecting-Ip:
+Cf-Ipcountry:
+Cf-Ipcountry:
+Challenge-Response:
+Client-IP:
+Client-IP:
+Client-Ip:
+Clientip:
+Cluster-Client-IP:
+Cluster-Client-IP:
+Content-Location:
+Content-Type: application/json
+Content-Type: application/x-www-form-urlencoded
+Cookie:
+Cookie: admin=true
+Cookie-Path:
+Cross-Origin-Embedder-Policy:
+Cross-Origin-Opener-Policy:
+Cross-Origin-Resource-Policy:
+Destination:
+Destination:
+Destination:
+Device-Stock-Ua:
+Download-Attachment:
+Download-Attachment:
+Download-Inline:
+Download-Inline:
+Fastly-Client-Ip:
+Fastly-Client-Ip:
+Forwarded-For-Ip:
+Forwarded-For-Ip:
+Forwarded-For: 127.0.0.1
+Forwarded-For: attacker
+Forwarded-For: client1, proxy1, proxy2
+Forwarded-For: random_ip
+Forwarded-For:
+Forwarded-For:
+Forwarded-For:
+Forwarded:
+Forwarded:
+Forwarded:
+From:
+From:
+Host: 127.0.0.1
+Host: localhost
+Host:
+Host:
+Http-Accept-Encoding:
+Http-Accept-Language:
+Http-Accept:
+Http-Authorization:
+Http-Authorization:
+Http-Connection:
+Http-Connection:
+Http-Host:
+Http-Host:
+Http-Phone-Number:
+Http-Phone-Number:
+Http-Referer:
+Http-Referer:
+Http-Referer:
+Http-Url:
+Http-Url:
+Http-Url:
+Http-User-Agent:
+Http-User-Agent:
+If-Modified-Since: Sat, 29 Oct 2000 19:43:31 GMT
+If-Range:
+If-Unmodified-Since: Sat, 29 Oct 2000 19:43:31 GMT
+Incap-Client-Ip:
+Incap-Client-Ip:
+Local-Addr:
+Local-Addr:
+Local-Addr:
+Location:
+Location:
+Max-Forwards: 0
+Max-Forwards: 1
+Max-Forwards: 2
+Max-Forwards:
+Origin:
+Origin:
+Origin:
+Path:
+Path:
+Path:
+Php-Auth-User: admin
+Proxy-Authorization:
+Proxy-Authorization:
+Proxy-Connection: keep-alive
+Proxy-Host:
+Proxy-Host:
+Proxy-Host:
+Proxy-Http:
+Proxy-Http:
+Proxy-Url:
+Proxy-Url:
+Proxy-Url:
+Proxy:
+Proxy:
+Real-Ip:
+Real-Ip:
+Redirect:
+Redirect:
+Referer: example.com
+Referer: /admin
+Referer:
+Referer:
+Referer:
+Referrer:
+Referrer:
+Referrer:
+Refferer:
+Refferer:
+Refferer:
+Remote-Addr:
+Remote-Host:
+Remote-Host:
+Request-ID: 1234567890
+Request-ID: 12345678901234567890
+Request-ID: f058ebd6-02f7-4d3f-942e-904344e8cde5
+Request-Uri:
+Request-Uri:
+Script-Name:
+Script-Name:
+Sec-WebSocket-Key:
+Sec-WebSocket-Key:
+Sec-WebSocket-Protocol:
+Sec-WebSocket-Version:
+Server:
+Server:
+Sessionid: A
+Sessionid: a a
+Sessionid:
+Sessionid:
+Sessionid:
+Siteid: 0
+Siteid: 1
+TE: trailers, deflate
+Trailer: X-Custom-Header
+True-Client-IP:
+True-Client-IP:
+Uri:
+Uri:
+Uri:
+Url:
+Url:
+Url:
+User-Agent:
+User-Agent:
+Via: 1.0 fred, 1.1 example.com (Apache/1.1)
+Warning: 199 Miscellaneous warning
+X-Access-Token: admin
+X-Amz-Date:
+X-Amz-Website-Redirect-Location:
+X-Amz-Website-Redirect-Location:
+X-Api-Key:
+X-Att-Deviceid: GT-P7320/P7320XXLPG
+X-Auth-Token:
+X-CSRFToken: DECAFC0FFEEBAD
+X-Client-Host:
+X-Client-Host:
+X-Client-IP: 127.0.0.1
+X-Client-IP:
+X-Client-Ip:
+X-Client-Ip:
+X-Clientip:
+X-Clientip:
+X-Cluster-Client-Ip:
+X-Correlation-ID: f058ebd6-02f7-4d3f-942e-904344e8cde5
+X-Csrf-Token: DECAFC0FFEEBAD
+X-Custom-Header: True
+X-Custom-Header: value
+X-Custom-IP-Authorization: 127.0.0.1
+X-Custom-IP-Authorization..;/:
+X-Custom-IP-Authorization..;/:
+X-Custom-IP-Authorization..;:
+X-Custom-IP-Authorization..;:
+X-Custom-IP-Authorization:
+X-Custom-IP-Authorization:
+X-Do-Not-Track: 1
+X-Forward-For:
+X-Forward-For:
+X-Forward-Proto:
+X-Forwarded-By:
+X-Forwarded-By:
+X-Forwarded-For-Original:
+X-Forwarded-For-Original:
+X-Forwarded-For-Original:
+X-Forwarded-For:
+X-Forwarded-For:
+X-Forwarded-For:
+X-Forwarded-Host: localhost:8080
+X-Forwarded-Host: localhost
+X-Forwarded-Host:
+X-Forwarded-Host:
+X-Forwarded-Host:
+X-Forwarded-Port: 443
+X-Forwarded-Port: 4443
+X-Forwarded-Port: 80
+X-Forwarded-Port: 8000
+X-Forwarded-Port: 8080
+X-Forwarded-Port: 8443
+X-Forwarded-Port: 9443
+X-Forwarded-Proto: http
+X-Forwarded-Proto: https
+X-Forwarded-Proto:
+X-Forwarded-Proto:
+X-Forwarded-Protocol:
+X-Forwarded-Scheme: http
+X-Forwarded-Scheme: https
+X-Forwarded-Scheme:
+X-Forwarded-Server:
+X-Forwarded-Server:
+X-Forwarded-Server:
+X-Forwarded-Ssl:
+X-Forwarded-Ssl:
+X-Forwarded:
+X-Forwarded:
+X-Forwarded:
+X-Forwarder-For:
+X-Forwarder-For:
+X-HTTP-DestinationURL:
+X-HTTP-DestinationURL:
+X-HTTP-Method-Override: DELETE
+X-HTTP-Method-Override: GET
+X-HTTP-Method-Override: POST
+X-HTTP-Method-Override: PUT
+X-Host:
+X-Host:
+X-Http-Destinationurl:
+X-Http-Destinationurl:
+X-Http-Host-Override:
+X-Http-Host-Override:
+X-Method-Override: DELETE
+X-Method-Override: GET
+X-Method-Override: POST
+X-Method-Override: PUT
+X-Original-Remote-Addr:
+X-Original-Remote-Addr:
+X-Original-URL: /
+X-Original-URL: admin
+X-Original-URL:
+X-Original-URL:
+X-Original-URL:
+X-Original-URL:
+X-Original-Url:
+X-Original-Url:
+X-Original-Url:
+X-Original-Url:
+X-Originally-Forwarded-For:
+X-Originally-Forwarded-For:
+X-Originating-IP:
+X-Originating-IP: 127.0.0.1
+X-Originating-Ip:
+X-Originating-Ip:
+X-Originating-Ip:
+X-Override-HTTP-Method: DELETE
+X-Override-HTTP-Method: GET
+X-Override-HTTP-Method: POST
+X-Override-HTTP-Method: PUT
+X-Override-Url:
+X-Override-Url:
+X-Override-Url:
+X-Proxy-Url:
+X-Proxy-Url:
+X-Proxy-Url:
+X-ProxyUser-Ip:
+X-ProxyUser-Ip:
+X-Real-Ip: 127.0.0.1
+X-Real-Ip:
+X-Real-Ip:
+X-Referrer:
+X-Referrer:
+X-Remote-Addr:
+X-Remote-Addr:
+X-Remote-IP:
+X-Remote-IP:
+X-Request-Id:
+X-Request-Id:
+X-Request-Signature:
+X-Request-Start:
+X-Request-Timestamp:
+X-Requested-With: XMLHttpRequest
+X-Rewrite-URL: /
+X-Rewrite-URL: admin
+X-Rewrite-URL:
+X-Rewrite-URL:
+X-Rewrite-Url:
+X-Rewrite-Url:
+X-Rewrite-Url:
+X-True-IP:
+X-True-IP:
+X-UIDH: 31337DEADBEEFCAFE
+X-Url-Scheme: http
+X-Url-Scheme: https
+X-Url-Scheme:
+X-WAP-Profile: http://wap.samsungmobile.com/uaprof/SGH-I777.xml
+X-WAP-Profile:
+X-WAP-Profile:
+X-XSRF-TOKEN: DECAFC0FFEEBAD
